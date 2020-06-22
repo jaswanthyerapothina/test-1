@@ -18,17 +18,18 @@ Finish the application to these requirements:
     
     1. It should show the total of the numbers entered
     
- 1. The use should be able to switch between the screen at any time.
+ 1. The user should be able to switch between the screen at any time.
     
 ---
 
 ### Note
 
 Try to integrate the following when completing this task as necessary:
-    1. React
-    1. React Router
-    1. HTML/CSS
-    1. Redux
-    1. Jest/Mocha/Chai/Enzyme.
+
+ 1. React
+ 1. React Router
+ 1. HTML/CSS
+ 1. Redux
+ 1. Jest/Mocha/Chai/Enzyme
     
 This repository can run React out of the box. Feel free to change the things to fit your needs.
